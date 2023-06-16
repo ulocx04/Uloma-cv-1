@@ -1,11 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
+.blue-title{
+	color: blue;
+	}
 
 body{ 
 background-color: darkseagreen;
 }
 
 h1{ 
-color: navy;
+color: beige;
 margin-left: 20px; 
 }
