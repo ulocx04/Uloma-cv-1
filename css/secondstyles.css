@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ 
+background-color: darkseagreen;
+}
+
+h1{ 
+color: navy;
+margin-left: 20px; 
+}
